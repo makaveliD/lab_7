@@ -1,0 +1,3 @@
+﻿  lab_7.cpp
+G:\kpi\програмування\lab_7\lab_7\lab_7.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab_7.vcxproj -> G:\kpi\програмування\lab_7\x64\Debug\lab_7.exe
