@@ -1,3 +1,7 @@
 ﻿  lab_7.cpp
-G:\kpi\програмування\lab_7\lab_7\lab_7.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+G:\kpi\програмування\lab_7\lab_7\lab_7.cpp(10,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+G:\kpi\програмування\lab_7\lab_7\lab_7.cpp(13,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+G:\kpi\програмування\lab_7\lab_7\lab_7.cpp(24,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+G:\kpi\програмування\lab_7\lab_7\lab_7.cpp(72,56): warning C4305: инициализация: усечение из "double" в "float"
+G:\kpi\програмування\lab_7\lab_7\lab_7.cpp(73,67): warning C4305: инициализация: усечение из "double" в "float"
   lab_7.vcxproj -> G:\kpi\програмування\lab_7\x64\Debug\lab_7.exe
